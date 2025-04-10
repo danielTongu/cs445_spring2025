@@ -58,7 +58,7 @@ Each chart is saved as an image in the format: `DanielTongu_<ChartTitle>.png`.
 
 ## ✅ Author
 
-John Doe
+Daniel Tongu
 
 ## 📜 License
 
