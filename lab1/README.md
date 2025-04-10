@@ -19,7 +19,7 @@ The goal is to use real-world data to create meaningful visualizations and inter
    ```bash
    pip install matplotlib pandas
    ```
-3. Download the `winequality-red.csv` dataset and place it in the same directory as the notebook.
+3. Download the `winequality` dataset and place it in the same directory as the notebook.
 4. Open the Jupyter Notebook:
    ```bash
    jupyter notebook WineQuality_Visualization.ipynb
@@ -37,17 +37,22 @@ This notebook includes the following charts:
 | **Pie Chart** | Proportion of each wine quality score |
 | **Box Plot** | Distribution of residual sugar |
 
-Each chart is saved as an image in the format: `JohnDoe_<ChartTitle>.png`.
+Each chart is saved as an image in the format: `DanielTongu_<ChartTitle>.png`.
 
 ## 📝 File Structure
 
 ```
+├── Lab1 Description.pdf
 ├── WineQuality_Visualization.ipynb
-├── winequality-red.csv
-├── JohnDoe_WineQualityBarChart.png
-├── JohnDoe_AlcoholVsQualityLineGraph.png
-├── JohnDoe_WineQualityPieChart.png
-├── JohnDoe_ResidualSugarBoxChart.png
+├── winequality
+├   ├── winequality-red.cs
+├   ├── winequality-white.cs
+├   ├── winequality.names
+├   ├── winequality-red.cs
+├── DanielTongu_WineQualityBarChart.png
+├── DanielTongu_AlcoholVsQualityLineGraph.png
+├── DanielTongu_WineQualityPieChart.png
+├── DanielTongu_ResidualSugarBoxChart.png
 └── README.md
 ```
 
