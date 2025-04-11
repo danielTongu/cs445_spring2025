@@ -44,11 +44,7 @@ Each chart is saved as an image in the format: `DanielTongu_<ChartTitle>.png`.
 ```
 ├── Lab1 Description.pdf
 ├── WineQuality_Visualization.ipynb
-├── winequality
-├   ├── winequality-red.cs
-├   ├── winequality-white.cs
-├   ├── winequality.names
-├   ├── winequality-red.cs
+├── winequality-red.cs
 ├── DanielTongu_WineQualityBarChart.png
 ├── DanielTongu_AlcoholVsQualityLineGraph.png
 ├── DanielTongu_WineQualityPieChart.png
