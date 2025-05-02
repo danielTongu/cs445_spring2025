@@ -35,13 +35,13 @@ Thumbs.db
 .idea/
 
 # Temporary files
-*.tmp # Temporary files
-*.temp # Temporary files
-*.bak # Backup files
-*.swp # Swap files
-*.swo # Swap files
-*.swn # Swap files
-*.kpl # Kernel files
+*.tmp 
+*.temp 
+*.bak 
+*.swp
+*.swo 
+*.swn 
+*.pkl
 
 # Backup files
-= # Backup files
+= 
