@@ -33,3 +33,15 @@ Thumbs.db
 # IDEs and editors
 .vscode/
 .idea/
+
+# Temporary files
+*.tmp # Temporary files
+*.temp # Temporary files
+*.bak # Backup files
+*.swp # Swap files
+*.swo # Swap files
+*.swn # Swap files
+*.kpl # Kernel files
+
+# Backup files
+= # Backup files
